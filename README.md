@@ -1,6 +1,7 @@
 # Scala Office Hours
 
 ## Session 1
+  * Quick intros
   * [Learning Resources](resources/README.md)
   * [Referential Transparency](rt/README.md)
-  * [Error as Datatypes](errors/README.md)
+  * [Defining your own datatypes in Scala](datatypes/README.md)
