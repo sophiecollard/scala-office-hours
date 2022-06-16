@@ -40,7 +40,7 @@ Functions perform side effects when they read or modify some state variables out
 Some examples of side effects are:
   * reading from / writing to a database
   * reading from / writing to the terminal
-  * mutating a variable
+  * mutating a variable outside of the function/method's scope
 
 In Scala, most functions that either **a)** do not have arguments (such as our `getUsername` function above) or **b)** have a return type of `Unit` perform side effects and are therefore impure.
 
